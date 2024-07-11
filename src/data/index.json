@@ -1,0 +1,35 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/maekhaii-image-2.png",
+      "title": "THE COFFEE TOY",
+      "description": "Sometimes, a cup of coffee is all you need to start your day off right. Whether it’s to prepare yourself for the challenges ahead, to take a break from work, or just to relax by the window with a good book at the ready, coffee can make everything feel just right.",
+      "link": "https://barcomamae123.github.io/maekhaii/#about"
+    },
+    {
+      "id": "2",
+      "src": "./img/maekhaii-image-1.png",
+      "title": "Online Pizza Ordering",
+      "description": "Anyone who says that money cannot buy happiness has clearly never spent their money on pizza",
+      "link": "https://oposystem.000webhostapp.com/"
+    },
+    {
+      "id": "3",
+      "src": "./img/maekhaii-image-3.png",
+      "title": "TwinsCJ FoodY",
+      "description": "Your Diet is a Bank Account. Good food choices are good Investments.",
+      "link": "https://barcomamae123.github.io/maekhaii/#about"
+    }
+  ],
+  "Experiences": [
+    {
+      "id": "2",
+      "description": "Completed an internship in Computer System Servicing at Binalbagan South Point from 2019 to 2020. Also participated in an immersion program for NC II at Biniquil, Kabankalan City."
+    },
+    {
+      "id": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+    }
+  ]
+}
